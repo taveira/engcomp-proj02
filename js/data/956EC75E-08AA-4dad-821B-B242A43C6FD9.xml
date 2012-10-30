@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("2.1", "1", "Interfaces", "EARoot/EA2/EA66.htm", "4.png", "", "", "{AE0B9D11-D637-408c-A5AB-14DF5E61CE98}", "Package");
+tocTab[tocTab.length] = new Array("2.2", "1", "Classes", "EARoot/EA2/EA67.htm", "4.png", "", "", "{1E836EB3-59E0-45f4-853B-898D0CA0BC96}", "Package");
+tocTab[tocTab.length] = new Array("2.3", "1", "Especificacao Funcional", "EARoot/EA2/EA68.htm", "4.png", "", "", "{378C380C-C719-4c62-B8DA-B467581583C7}", "Package");

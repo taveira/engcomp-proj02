@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("2.3.2:1", "", "Estorias", "EARoot/EA2/EA3/EA2/EA121.htm", "188.png", "26", "0", "", "Custom diagram0","{5D94EC55-9840-43ca-9D29-806BB630B57F}");
+tocTab[tocTab.length] = new Array("2.3.2:2", "", "«Functional» US0001- Incluir Cliente", "EARoot/EA2/EA3/EA2/EA123.htm", "190.png", "72", "0", "", "Feature0","{1A4A7B3B-21ED-4d04-8A18-21D2D0AB70C2}");
+tocTab[tocTab.length] = new Array("2.3.2:3", "", "«Functional» US001-Incluir Cliente", "EARoot/EA2/EA3/EA2/EA124.htm", "19.png", "70", "0", "", "Requirement0","{A35EE931-B369-406a-A648-E2002FBD1497}");
